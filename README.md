@@ -5,7 +5,7 @@
 <br><br>  
 <pre>
     📖 Computer Science, Web Development 
-    💻 C, HTML, CSS, Git
+    💻 C, Python, HTML, CSS, Git
     🎮 Code • Art • Games • Crochet • Сonstructors
     🍜 Asian Сuisine 🥤 • Boba tea 🐣
 </pre>
